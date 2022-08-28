@@ -6,7 +6,7 @@
 -->
 
 # Continuous Integration
-
+:)
 _Create workflows that enable you to use Continuous Integration (CI) for your projects._
 
 <!--
